@@ -22,11 +22,12 @@ The project uses the Dakshina dataset, which contains parallel corpora for India
 ```
 .
 ├── DA24M023_DL_A3.ipynb          # Main notebook containing the implementation
-├── models/                        # Directory containing saved model weights
-├── predictions_attention/         # Predictions from attention-based models
+├── models/                       # Directory containing saved model weights
+├── predictions_attention/        # Predictions from attention-based models
 ├── predictions_vanilla/          # Predictions from vanilla models
 ├── dakshina_dataset_v1.0/        # Dataset directory
 └── wandb/                        # Weights & Biases logging directory
+└── DA24M023_DL_A3_Report.pdf     # Final submission PDF
 ```
 
 ## Features
